@@ -1,0 +1,5 @@
+.env
+**pycache**/
+*.pyc
+output/
+input/*.mp4
